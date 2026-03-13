@@ -1,7 +1,7 @@
 
 # 📄 README.md — Projeto IARA
 
-```markdown
+
 # 🤖 IARA - Inteligência Artificial para Análise de Renda e Atividades
 
 IARA é uma assistente financeira inteligente capaz de analisar transações financeiras a partir de arquivos CSV e responder perguntas sobre gastos, categorias e hábitos financeiros através de um chat interativo.
