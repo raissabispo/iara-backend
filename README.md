@@ -3,6 +3,8 @@
 
 
 # 🤖 IARA - Inteligência Artificial para Análise de Renda e Atividades
+<img width="1848" height="975" alt="image" src="https://github.com/user-attachments/assets/f3fb70b8-5ada-48b1-974f-cd34b6a010b8" />
+
 <img width="1490" height="668" alt="image" src="https://github.com/user-attachments/assets/dde0b652-9af5-4862-991a-5a4b24106e02" />
 
 
