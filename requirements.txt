@@ -4,3 +4,4 @@ pandas
 python-dotenv
 openai
 requests
+python-multipart==0.0.9
